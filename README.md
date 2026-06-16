@@ -24,3 +24,25 @@ Proyek ini menggunakan pustaka khusus web (`dart:html` dan `dart:ui_web`). Oleh 
    flutter devices
    
 2. Kloning repositori ini
+git clone https://github.com/Amay135/flutter-web-data-mahasiswa.git
+cd flutter-web-data-mahasiswa
+
+3. Unduh dependensi
+   flutter run -d chrome
+
+4. Jalankan aplikasi di browser (Chrome)
+   flutter run -d chrome
+
+Dependensi yang Digunakan
+Flutter (Framework)
+
+http (Untuk melakukan HTTP request ke REST API)
+
+ndpoint API
+Aplikasi ini menggunakan API publik berikut untuk keperluan demonstrasi:
+
+URL: https://asnawi.web.id/mhsapi/
+
+Method: GET (Mendapatkan data) dan POST (Menyimpan data)
+
+Payload POST: JSON berisi npm, nama, dan foto (Base64).
