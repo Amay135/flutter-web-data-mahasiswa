@@ -24,8 +24,8 @@ Proyek ini menggunakan pustaka khusus web (`dart:html` dan `dart:ui_web`). Oleh 
    flutter devices
    
 2. Kloning repositori ini
-git clone https://github.com/Amay135/flutter-web-data-mahasiswa.git
-cd flutter-web-data-mahasiswa
+`git clone https://github.com/Amay135/flutter-web-data-mahasiswa.git
+cd flutter-web-data-mahasiswa`
 
 3. Unduh dependensi
    flutter run -d chrome
