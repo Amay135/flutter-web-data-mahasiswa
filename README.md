@@ -24,13 +24,16 @@ Proyek ini menggunakan pustaka khusus web (`dart:html` dan `dart:ui_web`). Oleh 
    flutter devices
    
 2. Kloning repositori ini
-`git clone https://github.com/Amay135/flutter-web-data-mahasiswa.git
-cd flutter-web-data-mahasiswa`
+     ```bash
+     git clone https://github.com/Amay135/flutter-web-data-mahasiswa.git
+     cd flutter-web-data-mahasiswa
 
-3. Unduh dependensi
+4. Unduh dependensi
+    ```bash
    flutter run -d chrome
 
-4. Jalankan aplikasi di browser (Chrome)
+5. Jalankan aplikasi di browser (Chrome)
+     ```bash
    flutter run -d chrome
 
 Dependensi yang Digunakan
